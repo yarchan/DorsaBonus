@@ -1,0 +1,1 @@
+import{_ as o,C as t,r as s,o as a,c,d as n,a as r}from"./index-f62176be.js";const _={components:{Catalog:t}},d={style:{"max-width":"1170px"}},p=r("div",{class:"fw-semibold fs-4"}," Выбери свой подарок ",-1);function i(l,f,m,x,C,h){const e=s("Catalog");return a(),c("div",d,[p,n(e)])}const $=o(_,[["render",i]]);export{$ as default};
